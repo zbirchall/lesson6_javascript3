@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Novemeber 3, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Zachary Birchall)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment was to make a photo gallery and allow the user to have a friendly interface that would allow them to easily browse through the photos.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://zbirchall.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned to access elements by id, tag name, class, name or selector.)
+2. (I learned to access element content, CSS properties, and attributes.)
+3. (I learned to add and remove document nodes.)
